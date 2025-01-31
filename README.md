@@ -1,8 +1,7 @@
 # Stock-Analysis-Python-PowerBI
-Analyzing stock price trends and volume using Python (NumPy, Pandas) and visualizing insights with Power BI &amp; Matplotlib.
 
-  Overview
 
+Overview
 This project analyzes stock price trends and trading volume using Python (NumPy, Pandas, Seaborn, Matplotlib) and visualizes insights with Power BI.
 
 Key Features
@@ -16,10 +15,10 @@ Tech Stack
 🟢 Power BI (for interactive visualizations)
 
 Project Structure
-📂 data/ - Stock price dataset
-📂 notebooks/ - Jupyter Notebook for analysis
-📂 powerbi/ - Power BI dashboard file (.pbix)
-📂 screenshots/ - Images of final dashboard
+ 📂 data/ - Stock price dataset
+ 📂 notebooks/ - Jupyter Notebook for analysis
+ 📂 powerbi/ - Power BI dashboard file (.pbix)
+ 📂 screenshots/ - Images of final dashboard
 
 Results & Insights
 The stock showed a significant uptrend after 2016.
